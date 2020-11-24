@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG9275
   title: གཡུ་ཐོག་གསར་རྙིང་གི་རྣམ་ཐར་དང་བོད་སྨན་སྐོར་གྱི་ཟིན་ཐོ།
-  volume: ''
+  volume:
+    43b356f2b3c54103b3403d299a61dad5:
+      image_group_id: I1KG9514
+      title: Volume 1 of tibetan medicine notes
+      volume_number: 1
+      total_pages: 272
   author: ''
+ebook_metadata:
+  title: གཡུ་ཐོག་གསར་རྙིང་གི་རྣམ་ཐར་དང་བོད་སྨན་སྐོར་གྱི་ཟིན་ཐོ།
+  author: ''
+  sku: P007114
+  cover: cover.jpg
+  layers:
+  - pagination
